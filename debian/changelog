@@ -1,3 +1,9 @@
+galera-3 (25.3.34-1deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:47:43 +0800
+
 galera-3 (25.3.34-1) unstable; urgency=medium
 
   * New upstream version 25.3.34. Includes multiple bug fixes, see
